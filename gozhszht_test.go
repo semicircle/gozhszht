@@ -5,8 +5,8 @@ import (
 )
 
 var (
-	sample_sp = "今天天气真不错"
-	sample_tr = "今天天氣真不錯"
+	sample_sp = "今天天气真不错asdf,洗衣机在睡懒觉"
+	sample_tr = "今天天氣真不錯asdf,洗衣機在睡懶覺"
 )
 
 func Test1(t *testing.T) {
